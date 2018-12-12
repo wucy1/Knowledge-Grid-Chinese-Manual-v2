@@ -6,3 +6,6 @@
 
 - 知識網格CPIC套件安裝說明 v0.1  
 如何安裝知識網格CPIC套件(含library、activator以及CPIC範例網站)  
+
+- 知識網格元件編寫 v0.2  
+解析知識網格元件架構及主要元素功能(含KO-level metadata、model metadata、service description以及the code)  
